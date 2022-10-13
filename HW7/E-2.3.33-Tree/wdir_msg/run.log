@@ -1,0 +1,18 @@
+   FAIL : Tree.1.out -- cs201-spring-2021-sag-server/sag-server/result-repo/my155/HW7/E-2.3.33-Tree/wdir_eval/E-2.3.33-Tree/Tree.1.out 
+diff stderr:                                                              ......
+===========
+    + Exception in thread "main" java.lang.ExceptionInInitializerError
+    + 	at Tree.main(Tree.java:40)
+    + Caused by: java.awt.HeadlessException: 
+    + No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+    + 	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:208)
+    + 	at java.desktop/java.awt.Window.<init>(Window.java:548)
+    + 	at java.desktop/java.awt.Frame.<init>(Frame.java:423)
+    + 	at java.desktop/java.awt.Frame.<init>(Frame.java:388)
+    + 	at java.desktop/javax.swing.JFrame.<init>(JFrame.java:180)
+    + 	at StdDraw.init(StdDraw.java:668)
+    + 	at StdDraw.<clinit>(StdDraw.java:631)
+    + 	... 1 more
+    + Command exited with non-zero status 1
+
+

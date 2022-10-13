@@ -1,0 +1,9 @@
+
+LCS_R.java:21: error: cannot find symbol
+        else {return max(LCS_r(x.substring(0, Lx-1), y), LCS_r(x, y.substring(0, Ly-1)));}
+                     ^
+  symbol:   method max(String,String)
+  location: class LCS_R
+1 error
+
+
