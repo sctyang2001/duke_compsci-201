@@ -1,0 +1,25 @@
+
+LongestPlateau.java:36: error: 'else' without 'if'
+            else {
+            ^
+LongestPlateau.java:45: error: <identifier> expected
+        System.out.println(maxLen);
+                          ^
+LongestPlateau.java:45: error: <identifier> expected
+        System.out.println(maxLen);
+                                 ^
+LongestPlateau.java:46: error: <identifier> expected
+        System.out.println(maxPos);
+                          ^
+LongestPlateau.java:46: error: <identifier> expected
+        System.out.println(maxPos);
+                                 ^
+LongestPlateau.java:48: error: illegal start of type
+        return;
+        ^
+LongestPlateau.java:50: error: class, interface, or enum expected
+}
+^
+7 errors
+
+
