@@ -1,0 +1,46 @@
+0.13user 0.03system 0:00.09elapsed 169%CPU (0avgtext+0avgdata 48872maxresident)k
+0inputs+72outputs (0major+6041minor)pagefaults 0swaps
+
+0.15user 0.03system 0:00.09elapsed 210%CPU (0avgtext+0avgdata 49820maxresident)k
+0inputs+72outputs (0major+6256minor)pagefaults 0swaps
+
+0.13user 0.01system 0:00.09elapsed 166%CPU (0avgtext+0avgdata 48792maxresident)k
+0inputs+72outputs (0major+5993minor)pagefaults 0swaps
+
+0.25user 0.02system 0:00.11elapsed 236%CPU (0avgtext+0avgdata 51932maxresident)k
+0inputs+72outputs (0major+7230minor)pagefaults 0swaps
+
+0.11user 0.03system 0:00.08elapsed 183%CPU (0avgtext+0avgdata 49092maxresident)k
+0inputs+72outputs (0major+6101minor)pagefaults 0swaps
+
+0.21user 0.02system 0:00.11elapsed 214%CPU (0avgtext+0avgdata 52316maxresident)k
+0inputs+72outputs (0major+7284minor)pagefaults 0swaps
+
+0.10user 0.02system 0:00.08elapsed 162%CPU (0avgtext+0avgdata 46152maxresident)k
+0inputs+64outputs (0major+5362minor)pagefaults 0swaps
+
+0.14user 0.03system 0:00.08elapsed 195%CPU (0avgtext+0avgdata 48776maxresident)k
+0inputs+72outputs (0major+5972minor)pagefaults 0swaps
+
+0.13user 0.02system 0:00.08elapsed 198%CPU (0avgtext+0avgdata 49488maxresident)k
+0inputs+72outputs (0major+6089minor)pagefaults 0swaps
+
+0.27user 0.06system 0:00.14elapsed 231%CPU (0avgtext+0avgdata 51684maxresident)k
+0inputs+72outputs (0major+7505minor)pagefaults 0swaps
+
+0.24user 0.03system 0:00.12elapsed 215%CPU (0avgtext+0avgdata 52188maxresident)k
+0inputs+72outputs (0major+7477minor)pagefaults 0swaps
+
+0.14user 0.06system 0:00.10elapsed 199%CPU (0avgtext+0avgdata 48832maxresident)k
+0inputs+72outputs (0major+6046minor)pagefaults 0swaps
+
+0.18user 0.07system 0:00.11elapsed 225%CPU (0avgtext+0avgdata 52752maxresident)k
+0inputs+72outputs (0major+7449minor)pagefaults 0swaps
+
+0.21user 0.02system 0:00.09elapsed 248%CPU (0avgtext+0avgdata 49972maxresident)k
+0inputs+72outputs (0major+6322minor)pagefaults 0swaps
+
+0.86user 0.04system 0:00.40elapsed 221%CPU (0avgtext+0avgdata 71160maxresident)k
+0inputs+72outputs (0major+13745minor)pagefaults 0swaps
+
+
